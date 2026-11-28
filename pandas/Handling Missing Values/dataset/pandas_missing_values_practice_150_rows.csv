@@ -1,0 +1,151 @@
+employee_id,first_name,age,city,department,education_level,employment_type,monthly_salary_inr,years_of_experience,performance_score,projects_completed,work_from_home_days,employment_status,joining_date
+EMP2001,Vivaan,59.0,Mumbai,Finance,PhD,Intern,74542.0,23.6,3.0,29.0,1.0,Active,2022-05-20
+EMP2002,Diya,45.0,Aurangabad,Finance,,Full-time,174047.0,33.1,1.0,21.0,3.0,On Leave,2019-02-18
+EMP2003,Aarav,32.0,Nashik,HR,Bachelor's,Full-time,62493.0,34.2,5.0,12.0,3.0,On Leave,2021-11-15
+EMP2004,Rehan,,,Marketing,Diploma,Intern,32518.0,9.9,4.0,4.0,2.0,Inactive,2026-06-04
+EMP2005,Meera,25.0,Mumbai,Engineering,PhD,Full-time,159960.0,,7.0,23.0,3.0,,2023-09-27
+EMP2006,Kabir,58.0,Thane,Support,High School,Part-time,51618.0,25.6,4.0,26.0,3.0,On Leave,2018-09-14
+EMP2007,Aarav,31.0,Nashik,Sales,Master's,Intern,71123.0,30.5,8.0,29.0,5.0,On Leave,2026-07-22
+EMP2008,Meera,,Pune,HR,Bachelor's,Full-time,125172.0,5.9,1.0,7.0,5.0,On Leave,2018-07-16
+EMP2009,Rehan,22.0,Navi Mumbai,Finance,Bachelor's,,71179.0,34.2,10.0,,4.0,Active,2016-09-04
+EMP2010,Meera,32.0,Navi Mumbai,Support,High School,Contract,,26.4,1.0,,1.0,Active,2022-10-02
+EMP2011,Vivaan,60.0,Pune,,Diploma,Full-time,98244.0,5.8,4.0,29.0,2.0,Active,2023-08-17
+EMP2012,Sara,32.0,Pune,Engineering,Diploma,Full-time,38830.0,18.9,3.0,2.0,5.0,Inactive,2025-08-22
+EMP2013,Sara,25.0,Pune,Engineering,High School,Full-time,105839.0,3.9,8.0,24.0,1.0,On Leave,2016-01-24
+EMP2014,Zoya,47.0,Kolhapur,,Bachelor's,Contract,163050.0,25.4,5.0,24.0,2.0,Active,2022-07-23
+EMP2015,Sara,23.0,Nashik,Operations,Bachelor's,Intern,178909.0,20.8,8.0,14.0,5.0,Active,2026-05-07
+EMP2016,Diya,40.0,Nagpur,,,Part-time,136499.0,20.2,8.0,26.0,2.0,Inactive,2021-08-04
+EMP2017,Vivaan,24.0,Pune,HR,PhD,Full-time,114198.0,29.7,7.0,1.0,4.0,Inactive,2025-03-03
+EMP2018,Rehan,24.0,Pune,,Bachelor's,Full-time,,26.9,6.0,27.0,1.0,On Leave,
+EMP2019,Aarav,35.0,Navi Mumbai,Marketing,High School,Full-time,159367.0,3.2,6.0,11.0,2.0,On Leave,2015-02-22
+EMP2020,Ishaan,21.0,Kolhapur,HR,High School,Part-time,33424.0,26.7,6.0,23.0,0.0,Inactive,2018-01-10
+EMP2021,Diya,55.0,Kolhapur,HR,Diploma,Part-time,133083.0,,8.0,3.0,5.0,On Leave,2025-09-23
+EMP2022,Zoya,45.0,Thane,Finance,High School,Part-time,154471.0,6.6,8.0,27.0,0.0,Active,2024-05-27
+EMP2023,Sara,58.0,Nashik,HR,PhD,Contract,,12.2,5.0,4.0,4.0,Inactive,2023-08-22
+EMP2024,Zoya,40.0,Nagpur,Finance,PhD,,110334.0,17.8,9.0,28.0,5.0,Active,2016-08-08
+EMP2025,Ishaan,43.0,Pune,Operations,PhD,,149446.0,30.1,1.0,9.0,0.0,On Leave,2026-01-19
+EMP2026,Rehan,45.0,Pune,Marketing,,Intern,168592.0,30.9,5.0,16.0,0.0,Inactive,2026-01-25
+EMP2027,Rehan,39.0,Nagpur,Operations,Bachelor's,Contract,23331.0,3.6,7.0,21.0,5.0,On Leave,2019-06-05
+EMP2028,Sara,43.0,,Finance,PhD,Contract,101783.0,15.5,7.0,19.0,3.0,On Leave,2026-02-25
+EMP2029,Diya,43.0,Nashik,Finance,Master's,Contract,84399.0,29.5,5.0,17.0,3.0,On Leave,2017-12-05
+EMP2030,Anaya,56.0,Nashik,HR,PhD,Full-time,,21.1,10.0,29.0,3.0,On Leave,2022-07-10
+EMP2031,Rehan,33.0,Mumbai,Marketing,High School,Contract,,29.9,1.0,18.0,4.0,On Leave,2020-12-22
+EMP2032,Vivaan,57.0,Mumbai,Operations,High School,Intern,39637.0,20.9,1.0,15.0,3.0,Active,2018-07-23
+EMP2033,Rehan,27.0,Thane,Engineering,High School,Full-time,72435.0,7.8,5.0,2.0,4.0,Inactive,2017-05-23
+EMP2034,Kabir,28.0,Aurangabad,Support,Diploma,Part-time,85702.0,17.6,7.0,7.0,2.0,Active,2025-11-17
+EMP2035,Kabir,,Thane,Support,Master's,Part-time,54755.0,18.0,5.0,14.0,0.0,Active,2024-12-16
+EMP2036,Meera,58.0,Mumbai,Support,Bachelor's,Contract,128811.0,31.3,8.0,29.0,0.0,Inactive,2024-05-22
+EMP2037,Diya,30.0,Thane,Sales,Bachelor's,Intern,121663.0,12.5,7.0,16.0,4.0,On Leave,2019-02-27
+EMP2038,Ishaan,52.0,Mumbai,HR,High School,Part-time,18696.0,8.2,5.0,1.0,1.0,On Leave,2023-09-05
+EMP2039,Diya,44.0,Navi Mumbai,HR,High School,Full-time,43224.0,26.2,3.0,6.0,0.0,Inactive,
+EMP2040,Ishaan,46.0,Nagpur,Engineering,High School,Contract,82047.0,14.7,8.0,18.0,4.0,Inactive,
+EMP2041,Vivaan,24.0,Nashik,Finance,Diploma,Part-time,,17.0,5.0,4.0,0.0,Active,2024-02-24
+EMP2042,Anaya,47.0,Pune,Engineering,PhD,Contract,83420.0,34.2,9.0,28.0,5.0,On Leave,2022-03-09
+EMP2043,Aarav,,Pune,Engineering,,Full-time,86929.0,23.6,3.0,6.0,1.0,,2020-08-21
+EMP2044,Kabir,42.0,Nashik,HR,PhD,Part-time,,23.5,8.0,23.0,2.0,On Leave,
+EMP2045,Ishaan,52.0,Nagpur,Finance,Diploma,Part-time,145694.0,32.7,8.0,23.0,2.0,On Leave,2022-01-30
+EMP2046,Rehan,,Thane,Engineering,Diploma,Intern,49584.0,,6.0,18.0,2.0,Inactive,2017-09-23
+EMP2047,Vivaan,60.0,Navi Mumbai,Operations,PhD,Contract,126555.0,33.4,10.0,17.0,3.0,Inactive,2022-12-22
+EMP2048,Aarav,,Aurangabad,Engineering,Master's,Contract,159924.0,22.2,8.0,15.0,5.0,Inactive,2018-01-16
+EMP2049,,51.0,Mumbai,Sales,Master's,Contract,162109.0,,10.0,6.0,1.0,Active,2019-04-23
+EMP2050,Kabir,44.0,Aurangabad,Sales,Bachelor's,Contract,70664.0,9.9,8.0,8.0,0.0,On Leave,2020-04-08
+EMP2051,Zoya,,Thane,HR,High School,Intern,142547.0,8.1,3.0,13.0,4.0,Active,2020-12-21
+EMP2052,Meera,53.0,Mumbai,Support,,Full-time,151943.0,18.6,4.0,17.0,3.0,Inactive,2024-06-17
+EMP2053,Diya,39.0,Kolhapur,Engineering,Diploma,Contract,42754.0,,9.0,26.0,2.0,Active,2017-12-14
+EMP2054,Diya,26.0,Kolhapur,Sales,Diploma,Part-time,,5.9,1.0,22.0,5.0,Active,2016-02-19
+EMP2055,,52.0,Nashik,Finance,,Contract,168134.0,24.8,10.0,30.0,2.0,On Leave,2022-12-29
+EMP2056,Anaya,45.0,Pune,Engineering,Bachelor's,Part-time,,23.8,10.0,17.0,2.0,On Leave,2023-04-08
+EMP2057,Meera,26.0,Nashik,Engineering,High School,Intern,159170.0,1.0,9.0,13.0,5.0,Inactive,2016-08-25
+EMP2058,Kabir,37.0,Kolhapur,Support,PhD,Full-time,59930.0,5.7,5.0,23.0,1.0,On Leave,2021-10-15
+EMP2059,,26.0,Aurangabad,Sales,Diploma,Contract,98732.0,21.6,7.0,15.0,5.0,Active,2020-09-09
+EMP2060,Ishaan,51.0,Nashik,Marketing,PhD,Full-time,154059.0,14.3,3.0,29.0,2.0,On Leave,2023-05-09
+EMP2061,Zoya,34.0,Nagpur,Support,Bachelor's,Part-time,32351.0,20.6,2.0,16.0,4.0,Inactive,2015-12-07
+EMP2062,Ishaan,23.0,Navi Mumbai,Operations,Diploma,Contract,55342.0,4.5,3.0,19.0,3.0,Active,2016-10-25
+EMP2063,Zoya,32.0,Pune,Engineering,PhD,Full-time,51623.0,30.2,9.0,29.0,4.0,Inactive,2016-03-12
+EMP2064,Vivaan,45.0,,Finance,PhD,Part-time,82710.0,9.1,4.0,21.0,5.0,Inactive,2026-05-13
+EMP2065,Zoya,44.0,Pune,Engineering,Diploma,Contract,36598.0,13.1,8.0,11.0,0.0,Active,2023-01-22
+EMP2066,Sara,55.0,,Support,Diploma,Contract,46784.0,15.7,6.0,26.0,4.0,Active,2016-10-30
+EMP2067,Anaya,35.0,Pune,HR,Bachelor's,Contract,177647.0,20.7,10.0,28.0,2.0,Inactive,2015-01-23
+EMP2068,Rehan,46.0,Aurangabad,Support,Master's,Full-time,96429.0,34.3,6.0,17.0,2.0,Inactive,2024-09-14
+EMP2069,Ishaan,58.0,Navi Mumbai,Finance,Bachelor's,Part-time,150109.0,7.3,,26.0,4.0,On Leave,2020-09-02
+EMP2070,Meera,33.0,Nashik,HR,Master's,Contract,30181.0,5.7,4.0,8.0,2.0,Active,
+EMP2071,Kabir,22.0,Kolhapur,Engineering,PhD,Intern,26134.0,5.1,7.0,15.0,0.0,On Leave,2022-10-06
+EMP2072,Zoya,47.0,Navi Mumbai,Support,Bachelor's,Full-time,173009.0,27.1,,24.0,3.0,Inactive,2023-06-21
+EMP2073,Sara,45.0,Nagpur,Support,PhD,Part-time,173745.0,13.4,10.0,5.0,,On Leave,2019-10-22
+EMP2074,Anaya,34.0,Navi Mumbai,HR,PhD,Intern,20105.0,32.4,10.0,25.0,3.0,On Leave,2018-08-03
+EMP2075,Anaya,43.0,Navi Mumbai,Sales,PhD,Full-time,57551.0,2.3,2.0,28.0,1.0,Active,2016-10-23
+EMP2076,Kabir,47.0,Mumbai,HR,Bachelor's,Intern,98449.0,18.6,1.0,30.0,0.0,Inactive,2019-06-16
+EMP2077,Kabir,53.0,Pune,HR,PhD,Part-time,122035.0,26.5,9.0,4.0,1.0,On Leave,2024-01-10
+EMP2078,Zoya,26.0,Navi Mumbai,Operations,PhD,Contract,153772.0,17.7,10.0,0.0,3.0,On Leave,2025-05-10
+EMP2079,Aarav,,Nagpur,Finance,PhD,,19583.0,14.2,5.0,11.0,1.0,On Leave,
+EMP2080,Meera,32.0,Nashik,Marketing,PhD,Part-time,39467.0,28.4,1.0,15.0,4.0,On Leave,2019-08-20
+EMP2081,Kabir,34.0,Thane,Operations,Diploma,,21585.0,17.8,2.0,,2.0,Active,2020-05-18
+EMP2082,Rehan,22.0,Pune,,PhD,Full-time,114731.0,31.7,6.0,1.0,0.0,On Leave,2021-04-14
+EMP2083,Kabir,37.0,Aurangabad,Operations,Bachelor's,Intern,105546.0,8.4,10.0,20.0,3.0,Active,2019-08-29
+EMP2084,Meera,24.0,Thane,HR,PhD,Intern,104035.0,20.9,8.0,15.0,4.0,Inactive,2022-04-04
+EMP2085,Aarav,58.0,Mumbai,Sales,PhD,Intern,50615.0,22.2,1.0,10.0,5.0,Active,2022-09-02
+EMP2086,Ishaan,43.0,Nagpur,Engineering,High School,Contract,140721.0,31.7,7.0,14.0,0.0,Inactive,2015-02-19
+EMP2087,Diya,,Navi Mumbai,Support,High School,Intern,,3.3,9.0,17.0,4.0,Active,2015-03-05
+EMP2088,Sara,30.0,Thane,Support,Master's,Full-time,131173.0,28.2,8.0,6.0,0.0,,2023-02-21
+EMP2089,Kabir,58.0,Thane,,Diploma,Part-time,177490.0,,,,5.0,Inactive,2024-06-25
+EMP2090,Ishaan,41.0,Navi Mumbai,HR,Master's,Contract,151653.0,30.1,1.0,30.0,3.0,,2026-03-03
+EMP2091,Anaya,60.0,Mumbai,Engineering,Master's,Part-time,31599.0,21.3,8.0,11.0,0.0,Active,2021-03-30
+EMP2092,Kabir,47.0,Nagpur,Engineering,Bachelor's,Full-time,146512.0,15.9,9.0,23.0,,Active,2019-09-24
+EMP2093,Kabir,60.0,Nagpur,Engineering,Master's,Full-time,118173.0,27.9,6.0,1.0,4.0,Active,2017-03-17
+EMP2094,Anaya,56.0,Aurangabad,Support,Bachelor's,Part-time,112423.0,9.9,7.0,11.0,3.0,On Leave,2024-12-01
+EMP2095,Rehan,50.0,Thane,,Bachelor's,Intern,50499.0,1.9,2.0,17.0,2.0,Inactive,2016-05-23
+EMP2096,Diya,35.0,Pune,Support,Diploma,Contract,74694.0,,10.0,24.0,3.0,,2017-09-12
+EMP2097,Diya,52.0,Kolhapur,Operations,Bachelor's,Part-time,75723.0,28.4,4.0,9.0,,Inactive,2020-08-07
+EMP2098,Sara,33.0,Nashik,Operations,High School,Intern,35403.0,,10.0,7.0,0.0,Inactive,2021-06-05
+EMP2099,Zoya,55.0,Aurangabad,Engineering,Master's,Intern,72065.0,15.7,2.0,26.0,0.0,On Leave,2021-09-07
+EMP2100,Anaya,33.0,Nashik,HR,Master's,Part-time,44538.0,25.6,8.0,,3.0,Active,2017-11-20
+EMP2101,Kabir,24.0,Kolhapur,HR,Master's,Intern,91744.0,25.0,8.0,6.0,5.0,Active,2017-11-17
+EMP2102,Rehan,25.0,Kolhapur,Marketing,High School,Full-time,159136.0,10.1,,24.0,3.0,On Leave,2017-06-12
+EMP2103,Aarav,39.0,,Engineering,Master's,Contract,138384.0,26.8,3.0,2.0,0.0,On Leave,2018-08-16
+EMP2104,Meera,,Navi Mumbai,Engineering,Master's,Part-time,61173.0,33.7,10.0,21.0,0.0,Active,2022-07-01
+EMP2105,Meera,32.0,,Marketing,High School,Contract,112423.0,12.3,5.0,14.0,3.0,Inactive,2017-07-14
+EMP2106,Kabir,53.0,Pune,Engineering,High School,Full-time,162833.0,9.6,8.0,24.0,4.0,Active,2015-05-03
+EMP2107,Sara,31.0,Kolhapur,Support,Master's,Full-time,,20.4,1.0,26.0,3.0,On Leave,2022-08-22
+EMP2108,Kabir,39.0,Navi Mumbai,Finance,Bachelor's,Intern,67586.0,30.7,7.0,12.0,,On Leave,2026-08-27
+EMP2109,Vivaan,34.0,Nagpur,Support,Bachelor's,Full-time,67835.0,,,7.0,1.0,Inactive,2023-10-10
+EMP2110,Kabir,43.0,Kolhapur,Finance,High School,Intern,27275.0,34.0,6.0,5.0,2.0,On Leave,2023-04-03
+EMP2111,Aarav,28.0,Navi Mumbai,Finance,Diploma,Contract,142177.0,32.3,8.0,22.0,0.0,Inactive,2019-09-13
+EMP2112,Rehan,59.0,Kolhapur,Operations,Master's,Contract,64979.0,24.9,6.0,13.0,2.0,Active,2018-03-03
+EMP2113,Sara,58.0,Thane,Support,Master's,Contract,,,1.0,24.0,0.0,On Leave,2022-09-17
+EMP2114,Anaya,48.0,Mumbai,Sales,Diploma,Full-time,80313.0,6.2,7.0,22.0,4.0,Inactive,2022-02-12
+EMP2115,Zoya,42.0,Nagpur,HR,Diploma,Full-time,33991.0,11.9,,30.0,4.0,Inactive,2023-11-19
+EMP2116,Kabir,50.0,Pune,Engineering,,Full-time,34796.0,28.4,7.0,26.0,5.0,Inactive,2015-08-25
+EMP2117,Sara,39.0,Kolhapur,Marketing,Diploma,Full-time,,14.0,7.0,28.0,1.0,Inactive,2017-10-18
+EMP2118,Aarav,56.0,Aurangabad,Marketing,,Intern,87621.0,8.0,1.0,,4.0,Active,2022-10-29
+EMP2119,Aarav,23.0,Pune,Engineering,Diploma,Part-time,71293.0,2.2,3.0,28.0,4.0,On Leave,2025-09-24
+EMP2120,Sara,29.0,Aurangabad,Support,Bachelor's,Full-time,147267.0,7.8,2.0,30.0,1.0,Active,2024-12-05
+EMP2121,Vivaan,39.0,Nashik,Support,Bachelor's,Part-time,52979.0,20.2,7.0,11.0,5.0,Active,2023-10-14
+EMP2122,,47.0,,Support,Master's,Full-time,,32.3,5.0,9.0,,Inactive,2024-07-05
+EMP2123,Sara,49.0,,Operations,Diploma,Intern,69137.0,13.7,1.0,18.0,1.0,Inactive,2026-01-07
+EMP2124,Meera,49.0,Thane,Operations,High School,Intern,97985.0,27.6,3.0,25.0,2.0,On Leave,2016-07-08
+EMP2125,Sara,58.0,Pune,Sales,Diploma,Full-time,39380.0,4.5,10.0,5.0,4.0,Inactive,2024-03-24
+EMP2126,Kabir,54.0,Nashik,Support,Master's,Part-time,179802.0,28.8,,30.0,2.0,Active,2016-09-28
+EMP2127,Meera,57.0,Navi Mumbai,Finance,PhD,Contract,65507.0,32.5,4.0,9.0,4.0,Inactive,2020-04-04
+EMP2128,Aarav,34.0,Nagpur,HR,Master's,Part-time,52881.0,,10.0,8.0,4.0,Active,2022-10-01
+EMP2129,Diya,48.0,Navi Mumbai,Marketing,Diploma,Full-time,131285.0,15.9,7.0,,,On Leave,2019-01-15
+EMP2130,Zoya,48.0,Mumbai,Operations,PhD,Part-time,106114.0,31.8,3.0,0.0,3.0,Inactive,2018-05-10
+EMP2131,Kabir,,Mumbai,Finance,Bachelor's,Part-time,138642.0,8.0,2.0,12.0,2.0,On Leave,
+EMP2132,Zoya,45.0,Nashik,Finance,Diploma,Contract,178017.0,32.2,9.0,4.0,2.0,Inactive,
+EMP2133,Meera,42.0,Nashik,HR,Bachelor's,Contract,130893.0,32.1,4.0,24.0,1.0,Inactive,2015-05-07
+EMP2134,Aarav,37.0,Nashik,Finance,PhD,Part-time,98307.0,33.5,4.0,24.0,,On Leave,2021-09-21
+EMP2135,Ishaan,26.0,Nagpur,Finance,Bachelor's,Contract,,31.2,3.0,19.0,0.0,On Leave,2016-05-25
+EMP2136,Meera,25.0,Aurangabad,Support,High School,Intern,113810.0,18.4,8.0,,2.0,Active,2021-08-19
+EMP2137,Sara,21.0,Nagpur,Sales,Diploma,Full-time,165604.0,23.9,2.0,5.0,2.0,Inactive,2023-09-07
+EMP2138,Sara,35.0,Thane,,PhD,Part-time,106566.0,,1.0,,5.0,Inactive,2023-12-10
+EMP2139,Sara,35.0,Kolhapur,Sales,Bachelor's,Intern,107504.0,10.6,6.0,27.0,5.0,On Leave,2017-04-11
+EMP2140,Meera,59.0,Pune,Operations,Diploma,Part-time,36673.0,34.7,7.0,29.0,4.0,On Leave,2025-05-23
+EMP2141,Meera,30.0,Pune,Operations,PhD,Intern,89153.0,0.9,7.0,8.0,1.0,Active,2018-11-17
+EMP2142,Anaya,29.0,Nagpur,HR,Diploma,Full-time,134014.0,8.8,,7.0,4.0,Active,2020-06-09
+EMP2143,Rehan,22.0,Thane,Engineering,Diploma,Full-time,151036.0,32.5,3.0,3.0,4.0,On Leave,2025-09-08
+EMP2144,Kabir,25.0,Nagpur,Engineering,High School,Intern,,33.3,9.0,22.0,5.0,,2021-08-13
+EMP2145,Diya,47.0,Mumbai,Sales,,Intern,123243.0,9.8,10.0,,3.0,Inactive,2024-12-11
+EMP2146,Sara,35.0,Navi Mumbai,Engineering,PhD,Full-time,168106.0,35.0,,5.0,4.0,Inactive,2015-11-30
+EMP2147,Anaya,45.0,Aurangabad,Sales,,Intern,28119.0,28.4,4.0,19.0,1.0,On Leave,
+EMP2148,Zoya,25.0,Thane,HR,Bachelor's,Contract,113040.0,27.2,6.0,23.0,3.0,Active,2025-11-19
+EMP2149,Zoya,51.0,Aurangabad,Marketing,Diploma,Full-time,59809.0,20.0,5.0,9.0,3.0,Active,2016-08-12
+EMP2150,Vivaan,31.0,,Marketing,PhD,,75107.0,13.8,9.0,1.0,4.0,On Leave,2025-07-12
